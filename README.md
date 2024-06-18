@@ -26,7 +26,7 @@ Ensure you have the following installed:
 
     ```sh
     git clone https://github.com/Austin2905/Mental-Health-Chatbot.git
-    cd Baymax
+    cd Mental-Health-Chatbot
     ```
 
 2. **Set Up Virtual Environment** (optional but recommended):
