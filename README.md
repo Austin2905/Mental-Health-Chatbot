@@ -1,2 +1,2 @@
-# Mental Health Chatbot
- A mental health chatbot named Baymax built with langchain and transformers
+# Mental Health Chatbot (Baymax)
+ A Personalized Mental Health Chatbot named Baymax using Langchain and Transformers

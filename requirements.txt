@@ -1,0 +1,13 @@
+langchain
+torch
+accelerate
+pypdf
+pip install -U langchain-community
+transformers
+sentence_transformers
+streamlit
+streamlit_chat
+faiss-cpu
+altair
+tiktoken
+huggingface-hub
